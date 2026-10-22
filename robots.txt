@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panxiuma.github.io/ioswangdiann/sitemap.xml
